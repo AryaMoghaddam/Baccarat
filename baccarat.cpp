@@ -400,3 +400,4 @@ int declareWinner(int winner, int decision, int bet)
         return bet;
     }
 }
+}
